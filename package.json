@@ -13,7 +13,8 @@
   "files": [
     "GuerrillaWarfare.js",
     "GuerrillaWarfare.d.ts",
-    "GuerrillaWarfare.js.map"
+    "GuerrillaWarfare.js.map",
+    "GuerrillaWarfare.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
